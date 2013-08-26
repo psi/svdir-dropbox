@@ -1,0 +1,4 @@
+#!/bin/bash
+
+export HOME=${HOME}/Documents/StreetEasy
+exec /Applications/Dropbox.app/Contents/MacOS/Dropbox
